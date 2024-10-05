@@ -1,10 +1,10 @@
 # about
 
 <div class="rounded-lg overflow-hidden">
-	<img src="../img/test_1.jpg" class="" />
+	<img src="img/test_1.jpg" class="" />
 </div>
 
-### 안녕하세요. 저는 **신인호** 입니다.
+### 안녕하세요. 저는 신인호 입니다.
 - 블로그에 글을 쓰고 생각을 담는 개발자입니다.
 - 생각을 정리하고 기록하는 것을 좋아합니다.
 - 동료와 함께 성장하고 더 나은 사람이 되기 위해 노력합니다.
