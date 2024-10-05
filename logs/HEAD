@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 f409bd1261ab5d4a53b43952ff62924fe9eaf1fc 42inshin <inshin@student.42seoul.kr> 1728150068 +0900	clone: from https://github.com/42inshin/inshin_blog.git
+f409bd1261ab5d4a53b43952ff62924fe9eaf1fc c5097b7970da327a7f1d4223620bf2aa3a15fe54 42inshin <inshin@student.42seoul.kr> 1728154389 +0900	commit: 첫 게시글 작성, config 수정
+c5097b7970da327a7f1d4223620bf2aa3a15fe54 3024298f912aa2b3829512c6298588d9b8df7054 42inshin <inshin@student.42seoul.kr> 1728154548 +0900	commit: 첫 글 제목 수정
+3024298f912aa2b3829512c6298588d9b8df7054 296be1fd1522748b20dee5fec08e5af132df8a39 42inshin <inshin@student.42seoul.kr> 1728156400 +0900	commit: 메뉴 수정, about 내용 추가
+296be1fd1522748b20dee5fec08e5af132df8a39 2a6ce3aa1acab363157935f18ae6793763b7a9d2 42inshin <inshin@student.42seoul.kr> 1728156473 +0900	commit: about 내용 수정
+2a6ce3aa1acab363157935f18ae6793763b7a9d2 68eca2d349c76cd2b3816f27db935c1280cb9c50 42inshin <inshin@student.42seoul.kr> 1728156681 +0900	commit (amend): about 내용 수정
+68eca2d349c76cd2b3816f27db935c1280cb9c50 73507aaa5c8269765780a86391512047034a2dcf 42inshin <inshin@student.42seoul.kr> 1728156758 +0900	commit (merge): about 오류 수정
+73507aaa5c8269765780a86391512047034a2dcf d384d0e1feb7761850a9c14fda0ca134f797eb76 42inshin <inshin@student.42seoul.kr> 1728157441 +0900	commit: about 내용 수정
+d384d0e1feb7761850a9c14fda0ca134f797eb76 373b746460766f1c0ed01a5d8374849c8553b990 42inshin <inshin@student.42seoul.kr> 1728157621 +0900	commit: about 기술 스택 추가
+373b746460766f1c0ed01a5d8374849c8553b990 d1ca5fac180e710b7e9ecf029715ae006e8f3d58 42inshin <inshin@student.42seoul.kr> 1728157991 +0900	commit: tailwind 초기화
+d1ca5fac180e710b7e9ecf029715ae006e8f3d58 bc5fcde7af7ae40354d852449dcf2b603f3e9fbe 42inshin <inshin@student.42seoul.kr> 1728158149 +0900	commit: 어바웃 스킬 수정
+bc5fcde7af7ae40354d852449dcf2b603f3e9fbe 4ebe0a22fbd2b4a2dabb5fa011f08181b2be850e 42inshin <inshin@student.42seoul.kr> 1728158225 +0900	commit: 어바웃 줄띄움
