@@ -1,21 +1,20 @@
 # about
 
-* hello world a
-* hello world a
-* hello world a
+<div class="rounded-lg overflow-hidden">
+	<img src="../img/test_1.jpg" class="" />
+</div>
 
-법관이 중대한 심신상의 장해로 직무를 수행할 수 없을 때에는 법률이 정하는 바에 의하여 퇴직하게 할 수 있다. 타인의 범죄행위로 인하여 생명·신체에 대한 피해를 받은 국민은 법률이 정하는 바에 의하여 국가로부터 구조를 받을 수 있다.
+### 안녕하세요. 저는 **신인호** 입니다.
+- 블로그에 글을 쓰고 생각을 담는 개발자입니다.
+- 생각을 정리하고 기록하는 것을 좋아합니다.
+- 동료와 함께 성장하고 더 나은 사람이 되기 위해 노력합니다.
 
-행정권은 대통령을 수반으로 하는 정부에 속한다. 국가의 세입·세출의 결산, 국가 및 법률이 정한 단체의 회계검사와 행정기관 및 공무원의 직무에 관한 감찰을 하기 위하여 대통령 소속하에 감사원을 둔다.
+#### 기술 스택
+- **Frontend**: HTML, CSS, JavaScript, React, Vue
+- **iOS**: Swift, SwiftUI
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
-
-```python
-print('helllo world test')
-for i in range(10):
-    print(i)
-```
+#### 연락처
+- **Email**: [sih0917@gmail.com](mailto: sih0917@gmail.com)
+---
+블로그에 다양한 글을 쓰고 있습니다. 많은 관심 부탁드립니다.<br/>
+점차 성장하는 모습을 보여드리겠습니다. 감사합니다.🥹👍
