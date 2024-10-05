@@ -12,44 +12,44 @@
 
 #### Web Frontend
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white" style="all: unset; display: inline;">
 </p>
 
 #### iOS
 <p align="left">
-<img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/swiftui-007AFF?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/swiftui-007AFF?style=for-the-badge&logo=swift&logoColor=white" style="all: unset; display: inline;">
 </p>
 
 #### Other Languages
 <p align="left">
-<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style="all: unset; display: inline;">
 </p>
 
 #### Infrastucture
 <p align="left">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="all: unset; display: inline;">
 </p>
 
 #### Development Tools
 <p align="left">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=FFFFFF" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=FFFFFF" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=FFFFFF" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FFFFFF" style="all: unset; display: inline;">
 </p>
 
 #### Collaboration Tools
 <p align="left">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="all: unset; display: inline;">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" style="all: unset; display: inline;">
 </p>
